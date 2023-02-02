@@ -1,2 +1,3 @@
-# dubbo-generic-float-issue
-验证对象泛型为Float类型时返回Double
+# 用以说明 provider定义为Float类型实际返回Double类型
+
+
